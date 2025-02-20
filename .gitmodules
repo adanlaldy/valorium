@@ -1,0 +1,6 @@
+[submodule "api-auctions"]
+	path = api-auctions
+	url = https://github.com/adanlaldy/api-auctions
+[submodule "api-users"]
+	path = api-users
+	url = https://github.com/adanlaldy/api-users
