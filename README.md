@@ -62,7 +62,7 @@ Ce projet est une plateforme d’enchères en ligne composée de deux API :
 4. **Mets à jour la base de données**  
    ```sh
    cd api-auctions
-   npx prisma migrate deploy
+   npx prisma migrate dev --name init
    npx prisma generate
    ```
 
